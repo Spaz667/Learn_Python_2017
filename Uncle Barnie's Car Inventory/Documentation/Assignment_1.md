@@ -59,7 +59,7 @@ It currently has the functionality to:
  "Uh...No thank you."
  
  ---
- ###Assignment 1:
+ ### Assignment 1:
  
  We will first be working on the Car Managment portion of the application.  Your goal is to have a functioning piece that can take input from the user about the car.
  
