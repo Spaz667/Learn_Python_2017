@@ -61,6 +61,8 @@ It currently has the functionality to:
  ---
  ### Assignment 1:
  
+ DUE: 4-20-2017
+ 
  We will first be working on the Car Managment portion of the application.  Your goal is to have a functioning piece that can take input from the user about the car.
  
  for instance:
