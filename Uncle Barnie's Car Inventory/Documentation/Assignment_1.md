@@ -68,7 +68,7 @@ It currently has the functionality to:
   - What Model
   - What Year
   - What transmission does it have
-  - The condition of the car (Good,Fair,Excelent,Mint)
+  - The condition of the car (Good,Fair,Excellent,Mint)
   - Price
 
 Ask these questions, save the results in a list and then when requested output the results back to the screen.
