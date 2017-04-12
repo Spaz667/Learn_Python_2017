@@ -51,6 +51,27 @@ It currently has the functionality to:
   - View if past due or not
   
  "So can you do it?"
+ 
  "Sure I can, this will take me a while but I can make this and let's meet in two weeks to discuss if there are any changes"
+ 
  "Alright, deal.  Now do you want insurance on your lightbulbs?  Ya' know, they always burn out when you least expect it"
+ 
  "Uh...No thank you."
+ 
+ ---
+ ###Assignment 1:
+ 
+ We will first be working on the Car Managment portion of the application.  Your goal is to have a functioning piece that can take input from the user about the car.
+ 
+ for instance:
+  - What Make
+  - What Model
+  - What Year
+  - What transmission does it have
+  - The condition of the car (Good,Fair,Excelent,Mint)
+  - Price
+
+Ask these questions, save the results in a list and then when requested output the results back to the screen.
+
+
+ 
