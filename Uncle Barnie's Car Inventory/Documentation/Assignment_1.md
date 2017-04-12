@@ -12,8 +12,11 @@ As the quote above aludes to we have a lot to learn as a programmer.  The first 
   There are three rules:
   
   1: Expect miscommunication
+  
   2: Define core functionality AKA: I need to be able to do X,Y,Z for this application to be used for it's intended purpose
+  
   3: Allow scope creep within reason.  Do not cram too much functionality that you miss the deadline.
+  
   
   Ask questions often, engage with the business side often and have functionality to show!
   
