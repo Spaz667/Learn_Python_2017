@@ -26,6 +26,7 @@ With that, I would like to move onto the back story of Uncle Barnie...
 He seems to be a typical used-car salesman however he has high goals for his established business.  His old windows 98 pc coughs dust as it chugs through the inventory he has.  However, trying to add your car to the recent list caused his authiritis to burn in his thumb.  He starts talking about how he bought this software back in the day for over 20 grand and you being a new member of the IT field decided to ask a life changing question that will soon change Uncle Barnie's business forever.  
 "If you add 10k to my trade-in I can build you a better solution than what you have now."  
 "Deal." 
+
 "Oh shit...I didn't think he'd really say he'd do it!"
 
 So you go through the motions of him showing you the old application. 
