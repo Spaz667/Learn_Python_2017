@@ -6,7 +6,7 @@
 
 As the quote above aludes to we have a lot to learn as a programmer.  The first step is to gather requirements from the business user to generate a solution that has the features and scalability of this solution.
 
-##### Requirements Gathering
+#### Requirements Gathering
   Gathering requirements seems like an easy thing to do however, let me ask you this.  Have you ever had a conversation with someone and they ask you to do something and you do it exactly like they asked but it was still wrong? So did every programmer that has gathered requirements.  
   
   There are three rules:
