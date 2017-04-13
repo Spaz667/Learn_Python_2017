@@ -1,4 +1,4 @@
-> A programmer is the enablement of a business case.  Therefore, a programmer must wear many hats.
+> A programmer is the enablement of a business use case.  Therefore, a programmer must wear many hats.
 
 ---
 
